@@ -120,7 +120,7 @@ streamlit run app.py
    SILICONFLOW_API_KEY = "sk-你的真实Key"
    ```
 5. 点击部署，约 1-2 分钟后得到公网地址
-6. 用公网地址生成二维码，放入比赛报告
+6. 用公网地址生成二维码
 
 ---
 
