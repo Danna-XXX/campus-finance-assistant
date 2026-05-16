@@ -1,6 +1,5 @@
 [server]
 port = 8508
-address = "localhost"
 
 [browser]
 gatherUsageStats = false
